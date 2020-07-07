@@ -1,0 +1,23 @@
+.image-block {
+  padding: 30px 20px;
+  max-width: 860px;
+  margin: 0 auto;
+
+  h3 {
+    text-align: center;
+  }
+
+  .draggable-image-container,
+  .moving-image-container {
+    position: relative;
+    height: 300px;
+    overflow: hidden;
+    border: 1px solid #aaa;
+
+    .draggable-image,
+    .moving-image {
+      position: absolute;
+      max-width: none;
+    }
+  }
+}
