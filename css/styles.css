@@ -1,0 +1,4 @@
+.image-block{padding:30px 20px;max-width:860px;margin:0 auto}.image-block h3{text-align:center}.image-block .draggable-image-container,.image-block .moving-image-container{position:relative;height:300px;overflow:hidden;border:1px solid #aaa}.image-block .draggable-image-container .draggable-image,.image-block .draggable-image-container .moving-image,.image-block .moving-image-container .draggable-image,.image-block .moving-image-container .moving-image{position:absolute;max-width:none}
+
+
+/*# sourceMappingURL=styles.css.map*/
