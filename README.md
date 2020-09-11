@@ -1,5 +1,7 @@
 ## Picture window
 
+**View demo here: https://gutskalss.github.io/picture-window/**
+
 Here are two methods to move your picture inside the parent block, if parent block is smaller.
 
 1. By drag and drop the image (src: 'js/dragAndDrop.js')
